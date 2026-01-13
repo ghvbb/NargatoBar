@@ -1,0 +1,2 @@
+# NargatoBar
+Style For Waybar
